@@ -1,0 +1,26 @@
+[
+  {
+    "id":1, 
+    "image": "../../content/users/user3.jpg",
+    "name": "Kaat Van Den Berghe",
+    "about": "Leerkracht Lager Onderwijs"
+  },
+  {
+    "id":2, 
+    "image": "../../content/users/user1.jpg",
+    "name" : "Diederik De Brabander",
+    "about": "Pedagogische Coach"
+  },
+  {
+    "id":3, 
+    "image": "../../content/users/user2.jpg",
+    "name": "Lien Wesembeeck",
+    "about": "Student Orthopedagogie"
+  },
+  { 
+    "id":4, 
+    "image": "../../content/users/user4.jpg",
+    "name" : "Jules Braeckman",
+    "about": "Docent Rechten"
+  }
+]

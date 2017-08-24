@@ -1,0 +1,45 @@
+---
+---
+
+//colors
+$mainblue: rgba(43, 61, 79, 1);
+$black: rgba(black,0.8);
+$white: rgba(255,255,255,1);
+$maingreen: rgba(63, 181, 155, 1);
+
+//fonts
+$mainfont: 'Nunito Sans', sans-serif;
+
+//login
+.logo_login{
+  height: 200px;
+  margin-bottom: 20px;
+  margin-top: 60px;
+  background-image: url('../content/icons/guideme.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#wrapper {
+  background-color: $mainblue;
+}
+
+
+.margin-bottom_button {
+  margin-bottom: 100px;
+}
+
+
+.btn-custom {
+  color: white;
+  background-color: $maingreen;
+  border: inherit;
+  font-family: $mainfont;
+  font-weight: 200;
+}
+
+.btn-custom:hover {
+  background-color: $maingreen !important;
+  color: white !important;
+}

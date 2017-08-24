@@ -1,0 +1,112 @@
+[
+  {
+    "naam": "S1 Station Evergem",
+    "straat": "Spoorwegstraat",
+    "huisnr": "4",
+    "postcode": "9940",
+    "deelgemeente": "Evergem",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S2 Station Wondelgem",
+    "straat": "Wondelgemstationplein",
+    "huisnr": "36",
+    "postcode": "9032",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S3 Station Gent Dampoort",
+    "straat": "SNCB Gent Dampoort station",
+    "huisnr": "",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S4 Station Gentbrugge",
+    "straat": "Robert Rinskopflaan",
+    "huisnr": "49",
+    "postcode": "9050",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S5 Station Merelbeke",
+    "straat": "Mellestraat",
+    "huisnr": "110",
+    "postcode": "9050",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S6 Station Melle",
+    "straat": "Gemeenteplein",
+    "huisnr": "1",
+    "postcode": "9090",
+    "deelgemeente": "Melle",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S7 Station De Pinte",
+    "straat": "Stationsstraat",
+    "huisnr": "10",
+    "postcode": "9840",
+    "deelgemeente": "De Pinte",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S8 Station Gent Sint Pieters",
+    "straat": "SNCB Gent Sint Pieters Station",
+    "huisnr": "",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S9 Station Drongen",
+    "straat": "Bieldekensstraat",
+    "huisnr": "",
+    "postcode": "9031",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "S10 Station Landegem",
+    "straat": "Stationsstraat",
+    "huisnr": "87",
+    "postcode": "9850",
+    "deelgemeente": "Nevele",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  }
+]

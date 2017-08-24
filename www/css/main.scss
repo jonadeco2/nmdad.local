@@ -1,0 +1,154 @@
+---
+---
+
+$mainblue: rgba(43, 61, 79, 1);
+$black: rgba(black,0.8);
+$white: rgba(255,255,255,1);
+$maingreen: rgba(63, 181, 155, 1);
+$maingreenseethrough: rgba(63, 181, 155, 0.5);
+
+
+//fonts
+$mainfont: 'Nunito Sans', sans-serif;
+$linkfont: Baloo Thambi, arial, serif;
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: ghostwhite;
+}
+  
+
+.font {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 200;
+}
+
+.font-reg {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+}
+
+
+//nav
+
+nav {
+  background-color: $mainblue;
+
+
+  .logo {
+  padding-top: 12px;
+  display: block;
+  }
+  .img_nav {
+  width: 67px;
+  }
+
+  .margin-nav_icon {
+    margin-top: 10px;
+  }
+
+  .margin-nav_back {
+  margin-top: 15px;
+  }
+
+  .link { 
+      a:link {
+      text-decoration: none;
+      }
+
+      a:visited {
+      text-decoration: none;
+    }
+
+      a {
+      color: $white;
+      font-family: $linkfont;
+      text-decoration: none;
+    }
+
+      a:hover{
+      text-decoration: none;
+      color: $white;
+    }
+  }
+}
+
+
+//footer
+
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow:hidden;
+    background-color: $mainblue;
+    color:white;
+    
+    .footer {
+      padding-top: 17px;
+      font-family: $mainfont;
+      font-weight: 200;
+    }
+    .green-link {
+    color: $maingreen;
+    font-family: $linkfont;
+  }
+
+  .green-link:hover {
+    color: $maingreen;
+    text-decoration: none;
+  }
+}
+
+
+
+
+//googlemaps
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+
+//Top & Bottom
+.block_bottom {
+  height: 120px;
+}
+
+.block_top {
+  height: 143px;
+}
+
+.wrapper_3 {
+  background-image: url('../../content/images/city3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper_2 {
+  background-image: url('../../content/images/city4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.padding-block {
+  padding-top: 40px;
+  color: $white;
+  font-family: $mainfont;
+  font-weight: 200;
+}
+
+//Icons
+.icon-custom {
+  color: $white;
+}

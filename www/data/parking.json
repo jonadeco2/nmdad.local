@@ -1,0 +1,104 @@
+[
+  {
+    "name": "P07 Sint-Michiels",
+    "address": "Sint-Michielsplein 8 9000 Gent",
+    "link": "",
+    "parkingStatus":
+                {
+                "availableCapacity": "332",
+                "totalCapacity": "450",
+                "column_4": "",
+                "column_5": "",
+                "column_6": ""
+                }
+    ,
+    "column_7": "",
+    "column_8": "",
+    "column_9": ""
+  },
+  {
+    "name": "P10 Sint-Pietersplein",
+    "address": "Sint-Pietersplein 65 9000 Gent",
+    "link": "",
+    "parkingStatus":
+                {
+                "availableCapacity": "662",
+                "totalCapacity": "708",
+                "column_4": "",
+                "column_5": "",
+                "column_6": ""
+                }
+    ,
+    "column_7": "",
+    "column_8": "",
+    "column_9": ""
+  },
+  {
+    "name": "P01 Vrijdagmarkt",
+    "address": "Vrijdagmarkt 1 9000 Gent",
+    "link": "",
+    "parkingStatus":
+                {
+                "availableCapacity": "523",
+                "totalCapacity": "647",
+                "column_4": "",
+                "column_5": "",
+                "column_6": ""
+                }
+    ,
+    "column_7": "",
+    "column_8": "",
+    "column_9": ""
+  },
+  {
+    "name": "P04 Savaanstraat",
+    "address": "Savaanstraat 13 9000 Gent",
+    "link": "",
+    "parkingStatus": 
+                {
+                "availableCapacity": "443",
+                "totalCapacity": "540",
+                "column_4": "",
+                "column_5": "",
+                "column_6": ""
+                }
+    ,
+    "column_7": "",
+    "column_8": "",
+    "column_9": ""
+  },
+  {
+    "name": "P08 Ramen",
+    "address": "Ramen 23 9000 Gent",
+    "link": "",
+    "parkingStatus": 
+                {
+                "availableCapacity": "121",
+                "totalCapacity": "266",
+                "column_4": "",
+                "column_5": "",
+                "column_6": ""
+                }
+    ,
+    "column_7": "",
+    "column_8": "",
+    "column_9": ""
+  },
+  {
+    "name": "P02 Reep",
+    "address": "Seminariestraat 9 9000 Gent",
+    "link": "",
+    "parkingStatus": 
+                {
+                "availableCapacity": "426",
+                "totalCapacity": "470",
+                "column_4": "",
+                "column_5": "",
+                "column_6": ""
+                }
+    ,
+    "column_7": "",
+    "column_8": "",
+    "column_9": ""
+  }
+]

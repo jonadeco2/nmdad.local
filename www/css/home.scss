@@ -1,0 +1,116 @@
+---
+---
+
+//colors
+$mainblue: rgba(43, 61, 79, 1);
+$black: rgba(black,0.8);
+$white: rgba(255,255,255,1);
+$maingreen: rgba(63, 181, 155, 1);
+
+//fonts
+$mainfont: 'Nunito Sans', sans-serif;
+$linkfont: Baloo Thambi, arial, serif;
+
+
+//green-wrapper
+.wrapper_home{
+  background-image: url('../../content/images/city2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+//weather-app
+.margin_bottom-block {
+  margin-bottom: 20px;
+}
+
+.weather_app {
+
+  h1 {
+    font-family: $mainfont;
+    font-weight: 200;
+    color: $white;
+  }
+  h4 {
+    font-family: $mainfont;
+    font-weight: 200;
+    color: $white;
+  }
+}
+
+.weather_forecast {
+
+  h5{
+    font-family: $mainfont;
+    font-weight: 200;
+    color: $white;
+  }
+}
+
+//afbeeldingen
+.img_1{
+  background-image: url('../../content/images/auto1.jpg');
+}
+
+.img_2{
+  background-image: url('../../content/images/auto2.jpg');
+}
+
+.img_3{
+  background-image: url('../../content/images/trein1.jpg');
+}
+
+.img_4{
+  background-image: url('../../content/images/trein4.jpg');
+}
+
+.img_5{
+  background-image: url('../../content/images/fiets.jpg');
+}
+
+.img_6{
+  background-image: url('../../content/images/taxi.jpg');
+}
+
+.img_1, .img_2, .img_3, .img_4, .img_5, .img_6 {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.a-image{
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  a:link {
+      text-decoration: none;
+      }
+
+      a:visited {
+      text-decoration: none;
+    }
+
+      a {
+      color: $white;
+      font-family: Baloo Thambi, arial, serif;
+      text-decoration: none;
+    }
+
+      a:hover{
+      text-decoration: none;
+      color: $white;
+    }
+
+    p {
+      padding-top: 90px;
+      padding-bottom: 90px;
+    }
+}
+
+//wordbreak
+.break {
+  word-break: break-all;
+}

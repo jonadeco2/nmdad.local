@@ -1,0 +1,90 @@
+[
+  {
+    "naam": "T1 Taxilocatie 1",
+    "straat": "Pakhuisstraat",
+    "huisnr": "",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T2 Taxilocatie 2",
+    "straat": "Woodrow Wilsonplein",
+    "huisnr": "139",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T3 Taxilocatie 3",
+    "straat": "Pr. Clementinalaan",
+    "huisnr": "197",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T4 Taxilocatie 4",
+    "straat": "Koopvaardijbaan",
+    "huisnr": "3885",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T5 Taxilocatie 5",
+    "straat": "Maaltekouter",
+    "huisnr": "1",
+    "postcode": "9051",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T6 Taxilocatie 6",
+    "straat": "Universiteitstraat",
+    "huisnr": "7",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T7 Taxilocatie 7",
+    "straat": "Conduitsteeg",
+    "huisnr": "176",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "T8 Taxilocatie 8",
+    "straat": "Universiteitstraat",
+    "huisnr": "9A",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "naam": "F1 Fietspunt Sint-Pieters MaxMobiel",
+    "straat": "Voskenslaan",
+    "huisnr": "19",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "link": "www.max-mobiel.be",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "F2 StudentEnMobiliteit",
+    "straat": "Kattenberg",
+    "huisnr": "2",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "link": "www.studentenmobiliteit.be",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "F3 Fietsendepot",
+    "straat": "Academiestraat",
+    "huisnr": "4",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "link": "",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "F4 Fietspunt Dampoort MaxMobiel",
+    "straat": "Land van Waaslaan",
+    "huisnr": "3795",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "link": "www.max-mobiel.be",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  },
+  {
+    "naam": "F5 Fietspunt Stadshal MaxMobiel",
+    "straat": "Poeljemarkt",
+    "huisnr": "",
+    "postcode": "9000",
+    "deelgemeente": "Gent",
+    "land": "Belgium",
+    "link": "www.max-mobiel.be",
+    "column_8": "",
+    "column_9": "",
+    "column_10": ""
+  }
+]
